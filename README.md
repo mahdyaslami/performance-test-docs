@@ -76,3 +76,33 @@ repeated until the performance goals of the project have been met.
 The performance testing core activities are displayed as follows:
 
 ![the-performance-testing-core-activities](the-performance-testing-core-activities.png)
+
+## Baselines
+
+A **Baseline** is the process of capturing performance metric data for the sole purpose of
+evaluating the efficacy of successive changes to the system or application. It is important
+that all characteristics and configurations, except those specifically being varied for
+comparison, remain the same in order to make effective comparisons as to which change (or
+series of changes) is driving results toward the targeted goal. Armed with such baseline
+results, subsequent changes can be made to the system configuration or application and
+testing results can be compared to see whether such changes were relevant or not. Some
+considerations when generating baselines include the following:
+
+- They are application-specific
+- They can be created for systems, applications, or modules
+- They are metrics/results
+- They should not be over generalized
+- They evolve and may need to be redefined from time to time
+- They act as a shared frame of reference
+- They are reusable
+- They help identify changes in performance
+
+## Load and stress testing
+
+**Load testing** is the process of putting demand on a system and measuring its response, that
+is, determining how much volume the system can handle. **Stress testing** is the process of
+subjecting the system to unusually high loads, far beyond its normal usage pattern, to
+determine its responsiveness. These are different from performance testing, whose sole
+purpose is to determine the response and effectiveness of a system, that is, how fast the
+system is. Since load ultimately affects how a system responds, performance testing is
+mostly done in conjunction with stress testing.
