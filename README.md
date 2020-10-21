@@ -75,7 +75,7 @@ repeated until the performance goals of the project have been met.
 
 The performance testing core activities are displayed as follows:
 
-![the-performance-testing-core-activities](the-performance-testing-core-activities.png)
+![the-performance-testing-core-activities](the-performance-testing-core-activities.PNG)
 
 ## Baselines
 
