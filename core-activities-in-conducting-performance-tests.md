@@ -1,4 +1,4 @@
-## Core activities in conducting performance tests:
+# Core activities in conducting performance tests:
 
 - **Identifying acceptance criteria:** What is the acceptable performance of the
 various modules of the application under load? Specifically, we need to identify
