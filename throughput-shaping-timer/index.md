@@ -1,4 +1,4 @@
-## Throughput Shaping Timer
+# [Throughput Shaping Timer](https://jmeter-plugins.org/wiki/ThroughputShapingTimer/?utm_source=jmeter&utm_medium=helplink&utm_campaign=ThroughputShapingTimer)
 
 Long time JMeter users had to try their tests on and on, finding exact number of threads and timer delays that produce desired number of requests per second (RPS) to server. This is "closed workload" approach, and it has major drawbacks (see here why). And if you changed load generator machine or server response time - you were doomed to do all this stuff again.
 
