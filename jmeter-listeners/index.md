@@ -69,3 +69,8 @@ This listener shows the change of throughput through simultaneous threads. This 
 
 This listener shows the number of transactions per second for each sampler. This gives us insight into the load the system was dealing with.
  
+-------------------
+
+[JMeter Listeners - Part 1: Listeners with Basic Displays](https://www.blazemeter.com/blog/jmeter-listeners-part-1-basic-display-formats?utm_source=BM&utm_medium=BM_blog&utm_campaign=jmeter-listeners-part2-aggregate-data-samples)
+
+[JMeter Listeners - Part 2: Listeners that Aggregate Data Samples](https://www.blazemeter.com/blog/jmeter-listeners-part-2-listeners-aggregate-data-samples)

@@ -81,3 +81,11 @@ The 70th percentile, for example, is the numbers A, D, B, I, H, C and J. This le
 ## Standard Deviations
 
 The standard deviation is the measurement of the density of the cluster of the data around the sought value (mean). Low standard deviation means that points are closer to the mean. High standard deviation means the points are farther away. This parameter can help determine how reliable the data is. If the standard deviation is high, this means that results vary very much, and the analysis should be conducted accordingly.
+
+-------------------
+
+[Understanding Your Reports: Part 1 - What are KPIs?](https://www.blazemeter.com/blog/load-testing-kpis-part-1-what-are-kpis?utm_source=Blog&utm_medium=BM_Blog&utm_campaign=kpis-part4)
+
+[Understanding Your Reports: Part 2 - KPI Correlations](https://www.blazemeter.com/blog/understanding-your-reports-part-2-kpi-correlations?utm_source=Blog&utm_medium=BM_Blog&utm_campaign=kpis-part1)
+
+[Understanding Your Reports - Part 4: How to Read Your Load Testing Reports on BlazeMeter](https://www.blazemeter.com/blog/load-testing-kpis-part-1-what-are-kpis?utm_source=Blog&utm_medium=BM_Blog&utm_campaign=kpis-part4)
